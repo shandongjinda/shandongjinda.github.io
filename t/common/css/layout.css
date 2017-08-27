@@ -662,9 +662,9 @@ text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
 	/*首页导航*/
 	.header{padding:0; position:static;border-bottom:none;}
 
-	.logo{ float:left;width:17%;padding:9px 0;}
+	.logo { float:left;width:37%;padding:9px 0;}
 	.logo img{height:42px;}
-	.nav{ float:right;width:74%; display:block; position:static;}
+	.nav{ float:right;width:54%; display:block; position:static;}
 	.wqpLan{ float:right;height:70px; line-height:70px;padding-right:20px;padding-top:0; position:relative;top:0;right:0;}
 	.wqpLan .text{margin-top:20px;}
 	.lanuageList{top:70px;}
@@ -826,9 +826,9 @@ text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
 @media (min-width:1200px){	
 	
 	/*首页导航*/
-	.logo{ width:20%;padding:9px 0;}
+	.logo{ width:30%;padding:9px 0;}
 	.logo img{height:50px;}
-	.nav{ width:63.7%;}
+	.nav{ width:53.7%;}
 
 
 	.idnexCompany dd .indexCtitle{padding:30px 0 25px;}
