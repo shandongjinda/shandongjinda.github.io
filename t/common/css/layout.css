@@ -3,6 +3,7 @@
 /*首页*/
 .header{width:100%; background:#fff; position:fixed; top:0;left:0;padding:10px 0; z-index:100;border-bottom:1px  solid #d9d9d9;}
 .logo img{height:34px;}
+.logo a{color:#228DFF;}
 .nav{ display:none;}
 .navBtn{width: 40px;height: 50px;overflow:hidden;position:absolute;right: 5px;top:9px;z-index:9;display:block;}
 .navBtn span{ top:50%; margin-top:-.02rem;}
